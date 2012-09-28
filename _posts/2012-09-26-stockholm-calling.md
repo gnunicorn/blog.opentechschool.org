@@ -7,7 +7,8 @@ category:
 image: /assets/content/stockholm.jpg
 tags: ["stockholm", "ots", "local", "sweden"]
 
-teaser: "Not even two weeks ago, our core team member Beatrice Martini went to Stockholm. One of her missions there: find out whether people are interested in starting some local OpenTechSchool Group there. And take our learnings there as a blueprint on how to make the movement grow in other cities around the globe. And we were not mistaken, there seems to be a huge demand in the local tech and startup community. We already secured a venue and have first ideas for when to do workshops. What we need now, are more people from the local community joining and helping organise, coach and get the word out. "
+teaser: "We are launching a new chapter of OpenTechSchool in Stockholm!
+But we need help from the local community to make it happen. Organizers, coaches, learners, tech enthusiasts – read on to find out more about it!"
 
 group_signup: 1
 group_title: OTS Stockholm Group
